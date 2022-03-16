@@ -1,2 +1,1 @@
-GIT COMMIT\n, ok
-I like to move it
+Hello, Hexlet! How are you?
