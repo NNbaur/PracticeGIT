@@ -1,1 +1,1 @@
-I like to move it
+GIT COMMIT\n, ok
